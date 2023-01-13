@@ -7,9 +7,11 @@ Para seguir boas práticas de programação, nomei nome de classes, métodos e v
 
 ### Considerações do teste
 
-● 00:00h possui um ângulo de 0o.
-● 00:15h possui um ângulo de 45o.
-● 00:30h possui um ângulo de 180o
+● 00:00h possui um ângulo de 0º.
+
+● 00:15h possui um ângulo de 45º.
+
+● 00:30h possui um ângulo de 180º.
 
 ### Utilizado:
 openjdk 11.0.17 2022-10-18
